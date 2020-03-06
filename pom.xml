@@ -9,9 +9,9 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.interagile</groupId>
+	<groupId>com.github.FelipeEngComp</groupId>
 	<artifactId>interagile-commons</artifactId>
-	<version>1.0.0</version>
+	<version>develop-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>commons</name>
 	<description>Projeto template para os microserviços</description>
